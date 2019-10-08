@@ -1,2 +1,5 @@
-# stencil-tailwindcss-template
-Stencil app with preinstalled TailwindCSS
+# Stencil starter app 
+
+### Comes with preinstalled/preconfigured:
+- Tailwind CSS library
+- Prettier config
